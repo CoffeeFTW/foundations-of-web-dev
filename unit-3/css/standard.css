@@ -1,0 +1,31 @@
+html, body {
+    margin:0;
+}
+header{
+    background-color: #40e0d0;
+    margin-bottom: 10px;
+}
+
+nav {
+    float: right; 
+    margin-right: 25px;
+    
+}
+
+nav>a{
+    font-size: x-large;
+    color: cornsilk;
+    text-decoration: none;
+    margin: 30px;
+}
+
+nav>a:hover {
+    color: black;
+}
+
+.about-info{
+    border: 12px double orangered;
+    width: 33.33vw;
+    text-align: center;
+    margin: 0 auto;
+}
